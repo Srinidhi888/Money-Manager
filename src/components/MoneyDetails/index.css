@@ -1,0 +1,31 @@
+.card-2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.img {
+  height: 80px;
+  padding-right: 30px;
+}
+.money-card {
+  margin: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 17px;
+  padding: 30px;
+  width: 320px;
+}
+.money-bg-1 {
+  background-color: #ecfccb;
+  border-color: #84cc16;
+}
+.money-bg-2 {
+  background-color: #cffafe;
+  border-color: #06b6d4;
+}
+.money-bg-3 {
+  background-color: #ede9fe;
+  border-color: #7c3aed;
+}

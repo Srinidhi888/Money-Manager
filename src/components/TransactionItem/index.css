@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  flex-direction: column;
+}
+.space {
+  width: 150px;
+  padding-left: 20px;
+}
+.delete-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.icon-delete {
+  height: 20px;
+}
+.grp {
+  display: flex;
+}
+.line {
+  color:  #7e858e;
+  height: 1px;
+  width: 100%;
+}
